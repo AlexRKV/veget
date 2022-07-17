@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\avtosfera.local"
+		},
+		{
+			"path": "F:\\uber"
+		},
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\Learn\\regular expressions"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "avtosfera.local"
+	}
+}
